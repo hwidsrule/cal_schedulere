@@ -18,7 +18,7 @@ class ScheduleProvider extends ChangeNotifier {
   ScheduleProvider({
     required this.repository,
   }) : super() {
-    getSchedules(date: selectedDate);
+    // getSchedules(date: selectedDate);
   }
 
   void getSchedules({

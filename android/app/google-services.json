@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "541666739411",
+    "project_id": "cal-scheduler-b17bb",
+    "storage_bucket": "cal-scheduler-b17bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541666739411:android:1b5a3fb3ce30e6cca90026",
+        "android_client_info": {
+          "package_name": "com.example.calendar_scheduler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541666739411-kbttf3oqjsfuemtsj314q0c3hqgbuvia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADWhZDiHRuc33g29kw0RrzY6f0Adv6uTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541666739411-kbttf3oqjsfuemtsj314q0c3hqgbuvia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
